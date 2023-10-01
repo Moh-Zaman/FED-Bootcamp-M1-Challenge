@@ -14,7 +14,7 @@ N/A
 ![alt text](Assets\01-html-css-git-challenge-demo.png)
 ```
 
-This can be viewed on 
+This can be viewed on: 
 
 ## Credits
 
