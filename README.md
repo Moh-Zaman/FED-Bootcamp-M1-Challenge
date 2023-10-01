@@ -11,7 +11,7 @@ N/A
 ## Usage 
 
 ```md
-![Website](https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/)
+This can be viewed on : https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/
 ```
 ## Credits
 
