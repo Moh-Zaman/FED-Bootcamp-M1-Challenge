@@ -1,8 +1,8 @@
-# Horiseon Front-End Accessability Improvment
+# Horiseon Front-End Accessibility Improvement
 
 ## Description 
 
-Horiseon has asked to improvement the front end accessability of their webpage. As a marketing agency, they want their codebase to follow accessibility standards so that their own website is optimised for seach engines. This will allow them to appear more often when certain keywords are used in web searches.
+Horiseon has asked to improve the front-end accessibility of its webpage. As a marketing agency, they want their codebase to follow accessibility standards to optimise their website for seach engines. This will allow them to appear more often when specific keywords are used in web searches.
 
 ## Installation
 
@@ -20,4 +20,4 @@ edX Front-End Developer Bootcamp Resources
 
 ## License
 
-View Licnese in the repository
+View License in the repository
