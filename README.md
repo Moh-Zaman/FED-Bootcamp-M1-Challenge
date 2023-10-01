@@ -12,7 +12,7 @@ N/A
 
 This project can be viewed on this website below
 ```md
-https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/
+![Website](https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/)
 ```
 ## Credits
 
