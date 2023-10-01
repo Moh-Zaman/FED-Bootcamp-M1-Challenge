@@ -11,11 +11,8 @@ N/A
 ## Usage 
 
 ```md
-![alt text](Assets\01-html-css-git-challenge-demo.png)
+![Website](https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/)
 ```
-
-This can be viewed on: 
-
 ## Credits
 
 edX Front-End Developer Bootcamp Resources
