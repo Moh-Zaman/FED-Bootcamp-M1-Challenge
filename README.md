@@ -10,8 +10,9 @@ N/A
 
 ## Usage 
 
+This project can be viewed on this website below
 ```md
-![Website](https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/)
+https://moh-zaman.github.io/FED-Bootcamp-M1-Challenge/
 ```
 ## Credits
 
